@@ -192,10 +192,9 @@
   prerequisites: |
     Открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Товар "perfume Oil"
-    Товар "Handcraft Chinese style"
+    no data
   steps:
-    - Выбрать товары из списка
+    - Выбрать два любых товара из списка
     - Нажать на кнопку добавить в корзину для каждого выбранного товара
   expected-result: |
     В корзине отображаются добавленные товары
