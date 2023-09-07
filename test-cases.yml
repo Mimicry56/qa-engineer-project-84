@@ -216,9 +216,9 @@
   prerequisites: |
     Открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-      Товар "iPhone 9"
-      Товар "Eau De Perfume Spray"
-      Товар "Freckle Treatment Cream- 15gm"
+    Товар "iPhone 9"
+    Товар "Eau De Perfume Spray"
+    Товар "Freckle Treatment Cream- 15gm"
   steps:
     - Выбрать в списке заданные товары
     - Нажать на кнопку "Добавить в корзину" для каждого из товаров
@@ -234,9 +234,9 @@
   prerequisites: |
     Открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-      Товар "iPhone 9"
-      Товар "Eau De Perfume Spray"
-      Товар "Freckle Treatment Cream- 15gm"
+    Товар "iPhone 9"
+    Товар "Eau De Perfume Spray"
+    Товар "Freckle Treatment Cream- 15gm"
   steps:
     - Выбрать в списке заданные товары
     - Нажать на кнопку "Добавить в корзину" для каждого из товаров
@@ -252,7 +252,7 @@
   prerequisites: |
     Открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-      Товар "Flying Wooden Bird"
+    Товар "Flying Wooden Bird"
   steps:
     - Выбрать заданный товар в списке
     - Нажать на кнопку "Добавить в корзину" 18 раз
@@ -349,7 +349,7 @@
   requirement: | 
    Сайт должен корректно отображаться и функционировать в актуальной версии браузера Firefox
   prerequisites: |
-    Наличие последней версии браузера Firefox 
+   Наличие последней версии браузера Firefox 
   test-data: |
    Firefox 117.0 (64-разрядный)
   steps: 
@@ -362,7 +362,7 @@
    - Нажать на кнопку "Оформить заказ"
    - Нажать на кнопку "Магазин"
   expected-result: |
-    Сайт корректно функционирует
+   Сайт корректно функционирует
 
 - summary: |
    Проверка скорости загрузки веб-сайта (24)
@@ -378,7 +378,7 @@
    - В открывающемся списке поменять скорость на "Slow 3G"
    - Перезагрузить страницу
   expected-result: |
-     Сайт корректно загружается
+    Сайт корректно загружается
 
 - summary: |
    Проверка работоспособности сайта с большим трафиком (25)
