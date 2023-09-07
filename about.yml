@@ -1,13 +1,11 @@
 ---
-name: Irina Yakubova # ваше имя
+name: Irina Yakubova
 job: QA Engineer
 level: junior
 email: ira1amatory@yandex.ru
 description: |
-  У меня есть два котик
-
- 
-skills: #
+ Давно хотела попробовать для себя профессию QA Engineer. Сейчас работаю SMM специалистом в digital агенстве. Люблю изучать что-то новое и интресное.
+skills:
   - функциональное тестирование
   - написание багрепортов
   - Windows OS
