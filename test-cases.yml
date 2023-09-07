@@ -158,7 +158,7 @@
   prerequisites: |
     Открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Категория "fragrances"
+    no data
   steps:
     - В блоке фильтрации снять флажок "В наличии"
   expected-result: |
